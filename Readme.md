@@ -73,10 +73,7 @@ streamlit run streamlit_app.py
 ```
 news-sentiment-analysis/
 │── streamlit_app.py        # Main Streamlit UI
-│── utils.py                # Utility functions (news scraping, NLP, summarization, etc.)
-│── api.py                  # API layer (if applicable)
 │── requirements.txt        # List of dependencies
-│── .env                    # API keys and environment variables
 │── README.md               # Project documentation
 ```
 
