@@ -1,0 +1,19 @@
+
+streamlit
+requests
+beautifulsoup4
+newspaper3k
+spacy
+langchain
+langchain-groq
+langchain-community
+textblob
+deep-translator
+gtts
+faiss-cpu
+sentence-transformers
+lxml[html_clean]
+
+# Ensures spaCy model is installed
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz
+
